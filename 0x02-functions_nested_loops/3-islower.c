@@ -6,10 +6,10 @@
  * Return: Always 0
  */
 int _islower(int c);
-{
+({
 
 if (l >= 97 && l <= 122)
 return (1);
 else
 return (0);
-}
+})
