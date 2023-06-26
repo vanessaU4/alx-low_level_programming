@@ -3,7 +3,6 @@
 /**
  * _puts - prints thr string
  * @str: string
- *
  * Return: string length
  */
 void _puts(char *str)
